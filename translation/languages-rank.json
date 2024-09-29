@@ -1,0 +1,20 @@
+{
+    "pt": {
+        "noPermission": "Você não tem permissão para usar este comando.",
+        "userNotFound": "Usuário não encontrado",
+        "rankingEntry": "{0}. **{1}**: {2} vezes",
+        "noRanking": "Nenhum colocado.",
+        "rankingTitle": "🏆 Ranking dos Assumidos",
+        "rankingDescription": "- **Aqui estão os 5 membros que mais assumiram tickets:** \n\n{0}",
+        "rankingFooter": "Atualizado em"
+    },
+    "en": {
+        "noPermission": "You don't have permission to use this command.",
+        "userNotFound": "User not found",
+        "rankingEntry": "{0}. **{1}**: {2} times",
+        "noRanking": "No ranking available.",
+        "rankingTitle": "🏆 Ticket Handling Ranking",
+        "rankingDescription": "- **Here are the top 5 members who handled the most tickets:** \n\n{0}",
+        "rankingFooter": "Updated at"
+    }
+}

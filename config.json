@@ -1,0 +1,6 @@
+{
+  "token": "TOKEN",
+  "cargo_staff": ["ROLE ID 1", "ROLE ID 2", "ROLE ID 3"],
+  "canal_logs": "CHANNEL LOG ID",
+  "canal_avaliação": "CHANNEL EVALUATION ID"
+}

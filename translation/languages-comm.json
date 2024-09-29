@@ -1,0 +1,18 @@
+{
+    "pt": {
+        "noPermission": "⛔ | Você não possui permissão para utilizar este comando.",
+        "panelSentSuccess": "{0} Painel enviado com sucesso!",
+        "welcomeSupport": "Bem-vindo(a) ao sistema de suporte!",
+        "supportDescription": "A nossa abordagem de atendimento é projetada para oferecer uma experiência exclusiva e personalizada. Garantimos total confidencialidade e disponibilizamos um canal dedicado apenas a você, onde pode esclarecer dúvidas, resolver problemas e muito mais, com toda a privacidade que merece.\n\n **🕒 Horário:** \nDas 07:00 às 12:00 e das 13:30 às 19:00 BR\n\n **🌐 Nosso website:** \n[VaultHost](https://www.vpsvault.host/)",
+        "serviceProvidedBy": "Atendimento feito por VaultHost",
+        "startSupport": "Iniciar Atendimento"
+    },
+    "en": {
+        "noPermission": "⛔ | You do not have permission to use this command.",
+        "panelSentSuccess": "{0} Panel sent successfully!",
+        "welcomeSupport": "Welcome to the support system!",
+        "supportDescription": "Our service approach is designed to provide a unique and personalized experience. We guarantee complete confidentiality and offer a dedicated channel just for you, where you can clarify doubts, resolve issues, and much more, with all the privacy you deserve.\n\n **🕒 Hours:** \nFrom 07:00 to 12:00 and from 13:30 to 19:00 BR\n\n **🌐 Our website:** \n[VaultHost](https://www.vpsvault.host/)",
+        "serviceProvidedBy": "Service provided by VaultHost",
+        "startSupport": "Start Support"
+    }
+}

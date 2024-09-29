@@ -1,0 +1,30 @@
+{
+    "en": {
+      "noPermission": "You do not have permission to use this button.",
+      "staffTookOverTicket": "Hello {0}, Staff: {1} has taken over your ticket: {2}",
+      "goToTicket": "Go to Ticket",
+      "ticketRecoveryCode": "📑 Ticket recovery **code**: `{0}`",
+      "verifyTopic": "- **Make sure you chose the correct topic**:",
+      "ticketType": "⚙ Ticket **Type:** `{0}`",
+      "ticketReason": "⚙ Ticket **Reason:** `{0}`",
+      "staffTookOver": "{0} has taken over this ticket.",
+      "leaveSupport": "Leave Support",
+      "staffPanel": "Staff Panel",
+      "ticketTaken": "Ticket Taken!",
+      "closeTicket": "Close Ticket"
+    },
+    "pt": {
+      "noPermission": "Você não tem permissão para usar este botão.",
+      "staffTookOverTicket": "Olá {0}, O Staff: {1} Assumiu seu ticket: {2}",
+      "goToTicket": "Ir para o Ticket",
+      "ticketRecoveryCode": "📑 Codigo do **Ticket:** `{0}`",
+      "verifyTopic": "- **Verifique se escolheu o tópico correto**:",
+      "ticketType": "⚙ Tipo de **ticket:** `{0}`",
+      "ticketReason": "⚙ Motivo do **ticket:** `{0}`",
+      "staffTookOver": "O {0} assumiu este ticket.",
+      "leaveSupport": "Sair do atendimento",
+      "staffPanel": "Painel Staff",
+      "ticketTaken": "Ticket Assumido!",
+      "closeTicket": "Fechar Ticket"
+    }
+  }

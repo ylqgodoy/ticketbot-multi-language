@@ -1,0 +1,18 @@
+{
+  "a": [
+    {
+      "label": "BR - Suporte",
+      "description": "Iniciar ticket.",
+      "value": "Suporte",
+      "categoria": "1283156228754772081",
+      "emoji": "🇧🇷"
+    },
+    {
+      "label": "EN - Support",
+      "description": "Start ticket.",
+      "value": "Support",
+      "categoria": "1283156228754772081",
+      "emoji": "🇺🇸"
+    }
+  ]
+}
